@@ -9,3 +9,14 @@
 <li>Prophet</li>
 <li>Long Short Term Memory (LSTM)</li>
 </ul>
+
+<h3>Understanding the Problem Statement<h3>
+  
+<p>
+  stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis.
+<ul>
+<li>Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.</li>
+<li>Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.</li>
+</ul>
+
+</p>
