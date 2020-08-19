@@ -21,5 +21,4 @@
 
 You might have gussed that we will be doing Technical analysis here. We will be using dataset downloaded form <a href="https://www.nseindia.com/">NSE</a> for this project, i have used data for <a href="https://www.nseindia.com/get-quotes/equity?symbol=BIRLACORPN">Birla Corporation</a>.
 
-Note: Here is the dataset I used for the code: <a href="">Download</a> 
 </p>
